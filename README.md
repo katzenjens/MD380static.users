@@ -1,5 +1,5 @@
 # MD380static.users
-Download der Liste von Funkamateuren von der Bundesnetzagentur im PDF-Format. Umwandeln der Liste in Textformat durch xpdf. Liste in CSV wandeln. (Teile des Codes von DK1UT modifiziert wiederverwendet. Gefunden in der Repo von DL6AKU). Download der DMR-ID Liste von ham-digital. Dort die deutschen OMs filtern. Als nächstes mit der Liste der BNetzA verheiraten. Das Ergebnis ist eine static.users Datei, welche direkt in die VM von Warren Merkel (KD4Z) hochgeladen werden kann.
+Download der Liste von Funkamateuren von der Bundesnetzagentur im PDF-Format. Umwandeln der Liste in Textformat durch xpdf. Liste in CSV wandeln. (Teile des Codes von DK1UT modifiziert wiederverwendet. Gefunden in der Repo von DL6AKU). Download der DMR-ID Liste von ham-digital. Dort die deutschen OMs filtern. Als nächstes mit der Liste der BNetzA verheiraten. Das Ergebnis ist eine static.users Datei, welche direkt in die VM von Warren Merkel (KD4Z) https://github.com/KD4Z hochgeladen werden kann.
 
 Hinweis! Aufgrund der Gesetze zum Datenschutz dürfen diese extrahierten Daten nur für den persönlichen Bedarf gespeichert werden. Eine Weitergabe an Dritte oder eine direkte Downloadmöglichkeit im Netz ist nicht zulässig. Eine Installation dieser Programme auf öffentlich erreichbaren Servern ist demzufolge ebenfalls nicht gestattet.
 
