@@ -7,9 +7,12 @@ Keine Gewähr für dauerhafte Funktion. Es steht und fällt mit den Daten, welch
 
 Benötigt wird:
 Python3 (https://www.python.org/)
+
 Pandas (https://pandas.pydata.org/)
+
 wget (für Windows nutze ich diese Version https://pypi.org/project/python3-wget/)
 unter Linux lieber direkt curl
+
 xpdf (http://www.xpdfreader.com/download.html) unter Debian / Ubuntu NICHT die offiziellen Paketquellen nehmen, da Absturzgefahr!
 
 Einfach den Installationsanleitungen der Pakete folgen.
