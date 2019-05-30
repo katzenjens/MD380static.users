@@ -23,3 +23,5 @@ Für Windows und Linux habe ich je eine Startdatei erstellt. Dort werden im erst
 Von der Nutzung von Python2 rate ich ab, da Pandas für Python 2 nicht mehr weiterentwickelt wurde und die Installation nicht mehr funktioniert.
 
 Die Datei der Bundesnetzagentur wird immer nur Anfang jedes Monats aktualisiert. Die Daten von Hamdigital fortlaufend. Von täglicher Aktualisierung rate ich dennoch ab, da ist der Nutzen eher marginal. Ausserdem werden die Server unnötig belastet. Ich habe es mir zur Regel gemacht, dass ich immer dann ein Update fahre, wenn im Brandmeisternetz mal wieder eine unbekannte deutsche ID erscheint. Zudem nicht alle taufrischen OMs sofort in der BNetzA Liste auftauchen.
+
+Service für Windows-Nutzer, welche kein Python installieren möchten. Hier gibt es ein bereits kompiliertes Paket. https://files.dg1yfx.de/md380static.zip
