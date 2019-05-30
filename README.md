@@ -21,3 +21,5 @@ Einfach den Installationsanleitungen der Pakete folgen.
 Für Windows und Linux habe ich je eine Startdatei erstellt. Dort werden im ersten Schritt die Rohdaten aus dem Web geholt. Über Linux mit curl, über Windows mit datenholen.py. Danach wird die PDF der BNetzA direkt mit pdftotext in die Datei afu.txt umgewandelt. Danach folgt der Aufruf von convert.py. Wenn alles geklappt hat, befindet sich kurze Zeit später die Datei static.users im Verzeichnis.
 
 Von der Nutzung von Python2 rate ich ab, da Pandas für Python 2 nicht mehr weiterentwickelt wurde und die Installation nicht mehr funktioniert.
+
+Die Datei der Bundesnetzagentur wird immer nur Anfang jedes Monats aktualisiert. Die Daten von Hamdigital fortlaufend. Von täglicher Aktualisierung rate ich dennoch ab, da ist der Nutzen eher marginal. Ausserdem werden die Server unnötig belastet. Ich habe es mir zur Regel gemacht, dass ich immer dann ein Update fahre, wenn im Brandmeisternetz mal wieder eine unbekannte deutsche ID erscheint. Zudem nicht alle taufrischen OMs sofort in der BNetzA Liste auftauchen.
