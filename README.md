@@ -14,6 +14,7 @@ wget (für Windows nutze ich diese Version https://pypi.org/project/python3-wget
 unter Linux lieber direkt curl
 
 xpdf (http://www.xpdfreader.com/download.html) unter Debian / Ubuntu NICHT die offiziellen Paketquellen nehmen, da Absturzgefahr!
+Unter Windows die Datei pdftotext.exe direkt in den Ordner kopieren!
 
 Einfach den Installationsanleitungen der Pakete folgen.
 
