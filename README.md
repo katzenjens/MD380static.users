@@ -7,17 +7,22 @@ Keine Gewähr für dauerhafte Funktion. Es steht und fällt mit den Daten, welch
 
 Benötigt wird:
 Python3 (https://www.python.org/)
+
 sudo apt-get install python3
 (meistens schon drauf)
-Pandas (https://pandas.pydata.org/) 
+Pandas (https://pandas.pydata.org/)
+
 sudo apt-get install python3-pandas
 
 wget (für Windows nutze ich diese Version https://pypi.org/project/python3-wget/)
 unter Linux lieber direkt curl
+
 sudo apt-get install curl
 
 xpdf (http://www.xpdfreader.com/download.html)
+
 sudo apt-get install xpdf
+
 Unter Windows die Datei pdftotext.exe direkt in den Ordner kopieren!
 
 
