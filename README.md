@@ -7,16 +7,19 @@ Keine Gewähr für dauerhafte Funktion. Es steht und fällt mit den Daten, welch
 
 Benötigt wird:
 Python3 (https://www.python.org/)
-
-Pandas (https://pandas.pydata.org/)
+sudo apt-get install python3
+(meistens schon drauf)
+Pandas (https://pandas.pydata.org/) 
+sudo apt-get install python3-pandas
 
 wget (für Windows nutze ich diese Version https://pypi.org/project/python3-wget/)
 unter Linux lieber direkt curl
+sudo apt-get install curl
 
-xpdf (http://www.xpdfreader.com/download.html) unter Debian / Ubuntu NICHT die offiziellen Paketquellen nehmen, da Absturzgefahr!
+xpdf (http://www.xpdfreader.com/download.html)
+sudo apt-get install xpdf
 Unter Windows die Datei pdftotext.exe direkt in den Ordner kopieren!
 
-Einfach den Installationsanleitungen der Pakete folgen.
 
 Für Windows und Linux habe ich je eine Startdatei erstellt. Dort werden im ersten Schritt die Rohdaten aus dem Web geholt. Über Linux mit curl, über Windows mit datenholen.py. Danach wird die PDF der BNetzA direkt mit pdftotext in die Datei afu.txt umgewandelt. Danach folgt der Aufruf von convert.py. Wenn alles geklappt hat, befindet sich kurze Zeit später die Datei static.users im Verzeichnis.
 
