@@ -6,9 +6,11 @@ Hinweis! Aufgrund der Gesetze zum Datenschutz dürfen diese extrahierten Daten n
 Keine Gewähr für dauerhafte Funktion. Es steht und fällt mit den Daten, welche die BNetzA und Hamdigital zur Verfügung stellen.
 
 Benötigt wird:
+
 Python3 (https://www.python.org/)
 
 sudo apt-get install python3
+
 (meistens schon drauf)
 Pandas (https://pandas.pydata.org/)
 
